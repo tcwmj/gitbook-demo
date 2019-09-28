@@ -4,7 +4,7 @@
 * [Chapter 1](chapter1/README.md)
     * [Section 1](chapter1/seciont1.md)
     * [Section 2](chapter1/section2.md)
-* [Chapter 1](chapter2/README.md)
+* [Chapter 2](chapter2/README.md)
     * [Section 1](chapter2/seciont1.md)
     * [Section 2](chapter2/section2.md)
 * [End](end/README.md)
