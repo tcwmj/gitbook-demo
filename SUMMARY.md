@@ -1,9 +1,9 @@
 # 电子合同服务
 
 * [产品简介](README.md)
-    * [什么是电子合同服务](产品简介/什么是电子合同服务.md)
-    * [产品优势](产品简介/产品优势.md)
-    * [功能特性](产品简介/功能特性.md)
+    * [什么是电子合同服务](introduction/what-is-econtract.md)
+    * [产品优势](introduction/benefits.md)
+    * [功能特性](introduction/functions.md)
 * [发布记录](release-notes/README.md)
 * [产品定价](pricing/README.md)
     * [Section 1](pricing/seciont1.md)
